@@ -9,6 +9,7 @@ set(hints
 set(paths
   /usr
   /usr/local
+  /opt/homebrew/Cellar/fox/1.6.56_2
 )
 
 find_path(FOX_INCLUDE_DIR
